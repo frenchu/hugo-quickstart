@@ -1,0 +1,4 @@
+baseURL = "http://frenchu.github.io/hugo-quickstart"
+languageCode = "en-us"
+title = "Hugo sample site"
+theme = "ananke"
